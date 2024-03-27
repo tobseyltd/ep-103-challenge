@@ -2,6 +2,14 @@
 
 👉 Live Version: https://tobseyltd.github.io/ep-103-challenge/
 
+## Nützliche Links:
+
++ Hintergrund Gradient: (https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/linear-gradient)
++ Background-Size: (https://developer.mozilla.org/en-US/docs/Web/CSS/background-size)
++ Background-Position: (https://developer.mozilla.org/en-US/docs/Web/CSS/background-position)
++ Box Shadow: (https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow)
++ Placeholder: (https://developer.mozilla.org/en-US/docs/Web/CSS/::placeholder)
+
 ---
 
 In diesem Tutorial hast du gelernt warum es wichtig ist, keinen inline CSS Code auf deiner Website zu schreiben. Oder zumindest nur dann, wenn du wirklich weißt, was du tust und der Inline-Code maximal 1-2 Style Attribute hat. Mit dieser Challenge kannst du dein Wissen vertiefen. Nutze den Browser Inspector, und falls du Hilfe benötigst, komm gerne in die Discord Community.
